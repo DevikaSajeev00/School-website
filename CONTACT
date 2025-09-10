@@ -1,0 +1,20 @@
+<main>
+  <h2>Contact Us</h2>
+  <p>Email: info@myschool.com</p>
+  <p>Phone: +91 98765 43210</p>
+  <p>Address: 123 Education Lane, Your City</p>
+
+  <h3>Send us a message</h3>
+  <form>
+    <label>Name:</label><br>
+    <input type="text" name="name" required><br><br>
+
+    <label>Email:</label><br>
+    <input type="email" name="email" required><br><br>
+
+    <label>Message:</label><br>
+    <textarea name="message" rows="5" required></textarea><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+</main>
