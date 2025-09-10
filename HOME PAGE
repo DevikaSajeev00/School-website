@@ -1,0 +1,20 @@
+<main>
+  <section>
+    <h2>Welcome to My School</h2>
+    <p>We provide quality education for students from KG to 12th grade.</p>
+  </section>
+
+  <section>
+    <h2>Our Vision & Mission</h2>
+    <p>Our mission is to empower students through knowledge, discipline, and values.</p>
+  </section>
+
+  <section>
+    <h2>News & Announcements</h2>
+    <ul>
+      <li>Admissions open for 2025–26</li>
+      <li>Annual Day: 15th October 2025</li>
+      <li>Science Exhibition: 22nd November 2025</li>
+    </ul>
+  </section>
+</main>
